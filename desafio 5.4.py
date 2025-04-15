@@ -1,0 +1,8 @@
+med = float(input('Qual a medida em M?'))
+meddm = float(med*10)
+medcm = float(med*100)
+medmm = float(med*1000)
+meddam = float(med*10)
+medhm = float(med/100)
+medkm = float(med)/(1000)
+print('Sua medida em metros corresponde a {}dm\n {}cm\n {}mm\n {}dam\n {}hm\n {}km\n'.format(meddm, medcm, medmm, meddam, medhm, medkm))
