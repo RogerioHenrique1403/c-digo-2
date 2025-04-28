@@ -1,0 +1,1 @@
+Esses são os meu comandos de estudo de python
